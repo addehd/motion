@@ -1,0 +1,15 @@
+{
+  "name": "motion",
+  "version": "1.0.0",
+  "description": "program that performs simple movement simulation of object",
+  "main": "motion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "addehd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
